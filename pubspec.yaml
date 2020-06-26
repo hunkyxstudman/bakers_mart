@@ -49,10 +49,22 @@ flutter:
     - images/carousel/carouselthree.jpg
     - images/carousel/carouselfour.jpg
     - images/logo.png
+
     - images/listview/iconfinder_boxes.png
     - images/listview/iconfinder_crushers.png
     - images/listview/iconfinder_moulds.png
     - images/listview/iconfinder_raw.png
+
+    - images/listview/iconfinder_color.png
+    - images/listview/iconfinder_photoprint.png
+    - images/listview/iconfinder_bakeware.png
+    - images/listview/iconfinder_aroma.png
+
+    - images/products/drumboards.jpg
+    - images/products/edible_paint.jpg
+    - images/products/flexi_creme.jpg
+    - images/products/toppers.jpg
+    - images/products/whip_cream.jpg
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
